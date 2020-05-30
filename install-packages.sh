@@ -6,8 +6,11 @@ pacman -Syu
 # Install arch packages
 pacman -S \
 syncthing \
-emacs \
+neovim \
 git \
+tmux \
+neorim \
+fzf \
 ripgrep \
 clang \
 tar \
@@ -15,4 +18,5 @@ fd \
 aspell-en \
 chromium \
 racket \
-xclip
+xclip \
+pyenv
